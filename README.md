@@ -12,8 +12,4 @@ Add your name here, feel free to use an emoji! (https://gist.github.com/rxaviers
 ## Use git, git bash, and VS Code from commandline:
 - Hossein Kalbasi (https://github.com/hosseinkalbasi)
 - [Ravi](https://github.com/ravitejavemuri)
-<<<<<<< HEAD
-- Add some changes second
-=======
 - Add some changes first
->>>>>>> 7e35240e9dcb4f7f4497571302a56bb766b84240
