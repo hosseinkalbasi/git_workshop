@@ -10,3 +10,5 @@ Add your name here, feel free to use an emoji! (https://gist.github.com/rxaviers
 
 ## Use git, git bash, and VS Code from commandline:
 - Hossein Kalbasi (https://github.com/hosseinkalbasi)
+
+Small change
