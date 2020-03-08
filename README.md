@@ -6,6 +6,7 @@ Add your name here, feel free to use an emoji! (https://gist.github.com/rxaviers
 ## Use fork, pull request, and github UI:
 - [Hossein Kalbasi](https://github.com/hosseinkalbasi) :smirk:
 - [Ravi](https://github.com/ravitejavemuri)
+- [Nishit Kadia](https://github.com/nishitkadia)
 
 
 ## Use git, git bash, and VS Code from commandline:
